@@ -6,7 +6,7 @@ Descriptions of the available files are as follows:
 
 CaseStudy2RCodeExample.R
 
-Here, example code for respiratory hospital admissions in Greater Glasgow & Clyde between 2002 and 2011 can be found, which shows how to the data should be structured in order to use the model, as well as comments on how to choose which trends to include in the model. The code also shows how to obtain the necessary results from the model and plots of the data.
+Here, example code for respiratory hospital admissions in Greater Glasgow & Clyde between 2002 and 2011 can be found, which shows how the data should be structured in order to use the model, as well as comments on how to choose which trends to include in the model. The code also shows how to obtain the necessary results from the model and plots of the data.
 
 Poisson.LTM.General.R
 
